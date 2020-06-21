@@ -1,0 +1,725 @@
+[
+    {
+      "en": "UK",
+      "cn": "英国",
+      "pron": "[ˌjuːˈkeɪ] ",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "Canada",
+      "cn": "加拿大",
+      "pron": "[ˈkænədə]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "USA",
+      "cn": "美国",
+      "pron": "[ˌjuːesˈeɪ]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "China",
+      "cn": "中国",
+      "pron": "[ˈtʃaɪnə]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "she",
+      "cn": "她",
+      "pron": "[ʃi]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "student",
+      "cn": "学生",
+      "pron": "[ˈstuːdnt]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "pupil",
+      "cn": "学生;(尤指)小学生",
+      "pron": "[ˈpjuːpl]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "he",
+      "cn": "他",
+      "pron": "[hiː]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "teacher",
+      "cn": "教师",
+      "pron": "[ˈtiːtʃər]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "boy",
+      "cn": "男孩",
+      "pron": "[bɔɪ]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "and",
+      "cn": "和;与",
+      "pron": "[ənd]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "girl",
+      "cn": "女孩",
+      "pron": "[ɡɜːrl]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "new",
+      "cn": "新的",
+      "pron": "[njuː]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "friend",
+      "cn": "朋友",
+      "pron": "[frend]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "today",
+      "cn": "今天",
+      "pron": "[təˈdeɪ]",
+      "unit": 1,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "father",
+      "cn": "父亲;爸爸",
+      "pron": "[ˈfɑːðər]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "dad",
+      "cn": "(口语)爸爸",
+      "pron": "[dæd]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "man",
+      "cn": "男人",
+      "pron": "[mæn]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "woman",
+      "cn": "女人",
+      "pron": "[ˈwʊmən]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "mother",
+      "cn": "母亲;妈妈",
+      "pron": "[ˈmʌðər]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "sister",
+      "cn": "姐;妹",
+      "pron": "[ˈsɪstər]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "brother",
+      "cn": "兄;弟",
+      "pron": "[ˈbrʌðər]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "grandmother",
+      "cn": "(外)祖母",
+      "pron": "[ˈɡrænmʌðər]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "grandma",
+      "cn": "(口语)(外)祖母",
+      "pron": "[ˈɡrænmɑː]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "grandfather",
+      "cn": "(外)祖父",
+      "pron": "[ˈɡrænfɑːðər]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "grandpa",
+      "cn": "(口语)(外)祖父，爷爷",
+      "pron": "[ˈɡrænpɑː]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "family",
+      "cn": "家;家庭",
+      "pron": "[ˈfæməli]",
+      "unit": 2,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "thin",
+      "cn": "瘦的",
+      "pron": "[θɪn]",
+      "unit": 3,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "fat",
+      "cn": "肥的;胖的",
+      "pron": "[fæt]",
+      "unit": 3,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "tall",
+      "cn": "高的",
+      "pron": "[tɔːl]",
+      "unit": 3,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "short",
+      "cn": "短的;矮的",
+      "pron": "[ʃɔːrt]",
+      "unit": 3,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "long",
+      "cn": "长的;远的;久的",
+      "pron": "[lɔːŋ]",
+      "unit": 3,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "small",
+      "cn": "小的",
+      "pron": "[smɔːl]",
+      "unit": 3,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "big",
+      "cn": "大的",
+      "pron": "[bɪɡ]",
+      "unit": 3,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "giraffe",
+      "cn": "长颈鹿",
+      "pron": "[dʒəˈræf]",
+      "unit": 3,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "so",
+      "cn": "这么;那么",
+      "pron": "[soʊ]",
+      "unit": 3,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "children",
+      "cn": "儿童(复数)",
+      "pron": "[ˈtʃɪldrən]",
+      "unit": 3,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "tail",
+      "cn": "尾巴",
+      "pron": "[teɪl]",
+      "unit": 3,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "on",
+      "cn": "在...之上;在...上面",
+      "pron": "[ɑːn]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "in",
+      "cn": "在...里面",
+      "pron": "[ɪn]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "under",
+      "cn": "在...下面",
+      "pron": "[ˈʌndər]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "chair",
+      "cn": "椅子",
+      "pron": "[tʃer]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "desk",
+      "cn": "桌子;书桌",
+      "pron": "[desk]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "cap",
+      "cn": "帽子",
+      "pron": "[kæp]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "ball",
+      "cn": "球",
+      "pron": "[bɔːl]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "car",
+      "cn": "小汽车",
+      "pron": "[kɑːr]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "boat",
+      "cn": "小船",
+      "pron": "[boat]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "map",
+      "cn": "地图",
+      "pron": "[mæp]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "toy",
+      "cn": "玩具",
+      "pron": "[tɔɪ]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "box",
+      "cn": "盒子;箱子",
+      "pron": "[bɒks]",
+      "unit": 4,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "pear",
+      "cn": "梨",
+      "pron": "[peə(r)]",
+      "unit": 5,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "apple",
+      "cn": "苹果",
+      "pron": "[ˈæpl]",
+      "unit": 5,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "orange",
+      "cn": "橙子",
+      "pron": "[ˈɒrɪndʒ]",
+      "unit": 5,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "banana",
+      "cn": "香蕉",
+      "pron": "[bəˈnɑːnə]",
+      "unit": 5,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "watermelon",
+      "cn": "西瓜",
+      "pron": "[ˈwɔːtəmelən]",
+      "unit": 5,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "strawberry",
+      "cn": "草莓",
+      "pron": "[ˈstrɔːbəri]",
+      "unit": 5,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "grape",
+      "cn": "葡萄",
+      "pron": "[ɡreɪp]",
+      "unit": 5,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "buy",
+      "cn": "买;购买",
+      "pron": "[baɪ]",
+      "unit": 5,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "fruit",
+      "cn": "水果",
+      "pron": "[fruːt]",
+      "unit": 5,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "eleven",
+      "cn": "十一",
+      "pron": "[ɪˈlevn]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "twelve",
+      "cn": "十二",
+      "pron": "[twelv]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "thirteen",
+      "cn": "十三",
+      "pron": "[ˌθɜːˈtiːn]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "fourteen",
+      "cn": "十四",
+      "pron": "[ˌfɔːˈtiːn]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "fifteen",
+      "cn": "十五",
+      "pron": "[ˌfɪfˈtiːn]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "sixteen",
+      "cn": "十六",
+      "pron": "[ˌsɪksˈtiːn]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "seventeen",
+      "cn": "十七",
+      "pron": "[ˌsevnˈtiːn]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "eighteen",
+      "cn": "十八",
+      "pron": "[ˌeɪˈtiːn]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "nineteen",
+      "cn": "十九",
+      "pron": "[ˌnaɪnˈtiːn]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "twenty",
+      "cn": "二十",
+      "pron": "[ˈtwenti]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "kite",
+      "cn": "风筝",
+      "pron": "[kaɪt]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "beautiful",
+      "cn": "美丽的;漂亮的",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 6,
+      "grade": 3,
+      "volume": 2
+    },
+    {
+      "en": "classroom",
+      "cn": "教室",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "window",
+      "cn": "窗户",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "blackboard",
+      "cn": "黑板",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "light",
+      "cn": "灯",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "picture",
+      "cn": "画",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "door",
+      "cn": "门",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "teacher's desk",
+      "cn": "讲台",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "computer",
+      "cn": "电脑;计算机",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "fan",
+      "cn": "电风扇",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "wall",
+      "cn": "墙",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "floor",
+      "cn": "地板",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "really",
+      "cn": "实际上,事实上;真正地,真实地",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "near",
+      "cn": "接近;靠近",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 1,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "schoolbag",
+      "cn": "书包",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 2,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "maths book",
+      "cn": "数学书",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 2,
+      "grade": 4,
+      "volume": 1
+    }
+  ,
+    {
+      "en": "English book",
+      "cn": "英语书",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 2,
+      "grade": 4,
+      "volume": 1
+    },
+    {
+      "en": "Chinese book",
+      "cn": "语文书",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 2,
+      "grade": 4,
+      "volume": 1
+    }
+  ,
+    {
+      "en": "storybook",
+      "cn": "故事书",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 2,
+      "grade": 4,
+      "volume": 1
+    }
+  ,
+    {
+      "en": "candy",
+      "cn": "糖果",
+      "pron": "[ˈbjuːtɪfl]",
+      "unit": 2,
+      "grade": 4,
+      "volume": 1
+    }
+  ]

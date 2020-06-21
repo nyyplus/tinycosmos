@@ -1,0 +1,29 @@
+html{
+  font-size: 62.5%;
+}
+body {
+  width: 100vw;
+  min-height: 100vh;
+  position: relative;
+  font-family:  PingFangSC-Regular,PingFang SC,Microsoft YaHei,tahoma,arial,Hiragino Sans GB,sans-serif;;
+}
+.btn{
+  padding: 12px 24px;
+  cursor: pointer;
+  border-radius: 12px;
+  font-weight: bold;
+}
+.btn-sucess{
+  background: #7fa96a;
+  color: #585d33;
+  box-shadow: 0 5px 0 #757c47;
+}
+.btn-danger{
+  background: #f1585b;
+  color:#fff;
+  box-shadow: 0 5px 0 #dd3c3f;
+}
+input {
+  outline: none;
+  border:none;
+}

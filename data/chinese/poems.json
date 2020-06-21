@@ -1,0 +1,94 @@
+[
+  {
+    "title": "绝句",
+    "author": "[唐]杜甫",
+    "content": "迟日江山丽，春风花香香。泥融飞燕子，沙暖睡鸳鸯。",
+    "new_words": [
+      "融",
+      "燕",
+      "鸳",
+      "鸯"
+    ],
+    "comments": [
+      {
+        "phrase": "迟日",
+        "Definition": "春日。"
+      },
+      {
+        "phrase": "泥融",
+        "Definition": "指泥土变湿软。"
+      }
+    ],
+    "unit": 1,
+    "lesson": 1,
+    "grade": 3,
+    "volume": 2
+  },
+  {
+    "title": "惠崇春江晚景",
+    "author": "[宋]苏轼",
+    "content": "竹外桃花三两枝，春江水暖鸭先知。蒌蒿满地芦芽短，正是河豚欲上时。",
+    "new_words": [
+      "惠",
+      "崇",
+      "蒌",
+      "蒿",
+      "豚",
+      "芽",
+      "欲"
+    ],
+    "comments": [
+      {
+        "phrase": "惠崇",
+        "Definition": "北宋名僧，能诗善画。这首诗是苏轼为惠崇的画作《春江晚景》所写的题画诗。"
+      },
+      {
+        "phrase": "芦芽",
+        "Definition": "芦苇的嫩芽。"
+      },
+      {
+        "phrase": "河豚",
+        "Definition": "一种肉味鲜美的鱼，有毒性。"
+      }
+    ],
+    "unit": 1,
+    "lesson": 1,
+    "grade": 3,
+    "volume": 2
+  },
+  {
+    "title": "三衢道中",
+    "author": "[宋]曾几",
+    "content": "梅子黄时日日晴，小溪泛尽却山行。绿阴不减来时路，添得黄鹂四五声。",
+    "new_words": [
+      "泛",
+      "减",
+      "鹂",
+      "溪",
+      "梅"
+    ],
+    "comments": [
+      {
+        "phrase": "三衢",
+        "Definition": "地名，在今浙江衢州一带。"
+      },
+      {
+        "phrase": "小溪泛尽",
+        "Definition": "乘小船到小溪的尽头。"
+      },
+      {
+        "phrase": "却",
+        "Definition": "再，又。"
+      },
+      {
+        "phrase": "阴",
+        "Definition": "树荫"
+      }
+    ],
+    "unit": 1,
+    "lesson": 1,
+    "grade": 3,
+    "volume": 2
+  }
+]
+
